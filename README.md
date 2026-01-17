@@ -93,8 +93,8 @@ Bash
 
 # Clone the repo
 ```bash
-git clone [https://github.com/YOUR_USERNAME/AI-Film-Editor-Agent.git](https://github.com/YOUR_USERNAME/AI-Film-Editor-Agent.git)
-cd AI-Film-Editor-Agent
+git clone https://github.com/EasyDeduce/AI_Film_Editor.git
+cd AI_Film_Editor
 ```
 # Create virtual environment
 ```bash
