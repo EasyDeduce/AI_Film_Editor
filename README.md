@@ -105,21 +105,21 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+
 🚀 How to Run
-
-    Start the Brain: Open a terminal and run Ollama.
-```Bash
-
-    ollama serve
+Start the Brain: Open a terminal and run Ollama.
+```bash
+  ollama serve
 ```
-    Run the Agent: Open the Jupyter Notebook.
-```Bash
+Run the Agent: Open the Jupyter Notebook.
+```bash
    jupyter lab
 ```
-    Execute: Open AI_Film_Editor.ipynb, run all cells, and enter commands in the prompt.
+ Execute: Open AI_Film_Editor.ipynb, run all cells, and enter commands in the prompt.
     Plaintext
 
-    🎬 COMMAND THE AI: Run smart cut and make it look warm.
+🎬 COMMAND THE AI: Run smart cut and make it look warm.
 
 📊 Performance
 
