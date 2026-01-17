@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Project Data (Do not upload large videos)
+*.mp4
+*.wav
+*.mov
+
+# Output folder
+output/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
