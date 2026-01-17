@@ -37,8 +37,8 @@ The **AI Film Editor Agent** is a local Python application that allows users to 
 ### ✂️ Smart Cut Engine
 * **Voice-Activated Editing:** The agent listens for specific keywords in the audio track.
 * **Logic:**
-    * Say **"Cut Start"** -> AI marks the beginning of a bad take.
-    * Say **"Film Start"** -> AI marks the end of a bad take.
+    * Say **"Cut"** -> AI marks the beginning of a bad take.
+    * Say **"Action"** -> AI marks the end of a bad take.
     * **Result:** The system automatically deletes the segment in between and stitches the good takes together.
 
 ### 🎨 Natural Language Color Grading
